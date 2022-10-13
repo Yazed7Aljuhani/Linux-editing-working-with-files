@@ -3,7 +3,7 @@
 run these commands before you start the lab:
 - sudo mkdir -p  ~/mydir/mydir2
 - sudo touch  ~/mydir/mydir2/yourname.txt
-- cp /tmp/log/secure   ~/mydir/securecopy.txt 
+- cp /var/log/syslog   ~/mydir/securecopy.txt 
 ----------------------------------------------------------------
 - run the hash command and save the output as screen shot
 - cksum securecopy.txt and save the output as screen shot

@@ -12,4 +12,4 @@ run these commands before you start the lab:
 - again run the hash command and save the output as screen shot
 - use the find command to find yourname.txt in your environment 
 - Use man page with the "useradd" command and save the output in "useradd-man.txt" using what you have learned in "stdin/stdout" lesson, then grep the word "password" from the "useradd-man.txt" you have created and take a screen shot for the grep output   
-- use the diff command on /tmp/log/secure and ~/mydir/securecopy.txt  file and save the output as screen shot
+- use the diff command on /var/log/syslog and ~/mydir/securecopy.txt  file and save the output as screen shot

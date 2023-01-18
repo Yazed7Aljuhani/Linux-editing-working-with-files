@@ -23,9 +23,9 @@ run these commands before you start the lab:
 
 ## Submission:
 
-- After finishing the task take screen shot of the /tmp/company.backups .
-- Then decompress one of the backups folders then take screen shot of the content of the decompressed folder.
-- Then take screen shot of the two cron jobs.
+- After finishing the task take screen shot of the  .
+- Then take screen shot of the two .
+- Then take screen shot of the two .
 - Then upload the 3 pictures to the forked repo and then create a pull request.
 
 ----------------------------------------------------------------

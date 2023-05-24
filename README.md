@@ -6,7 +6,7 @@
 run these commands before you start the lab:
 - sudo mkdir -p  ~/mydir/mydir2
 - sudo touch  ~/mydir/mydir2/yourname.txt
-- cp /var/log/syslog   ~/mydir/securecopy.txt 
+- cp /var/log/anaconda/syslog  ~/mydir/securecopy.txt 
 
 ## Tasks:
 
@@ -18,7 +18,7 @@ run these commands before you start the lab:
 
 ## Additional Challenge:
 
-- use the diff command on /var/log/syslog and ~/mydir/securecopy.txt  file and save the output as screen shot
+- use the diff command on /var/log/anaconda/syslog and ~/mydir/securecopy.txt  file and save the output as screen shot
 
 ## Submission:
 
